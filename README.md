@@ -1,2 +1,2 @@
-# reparaci-n-de-celular
+# reparacion-de-celular
 My clone repository
